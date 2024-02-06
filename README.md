@@ -20,7 +20,7 @@ The 3 Tasks shared in the pdf assessment has been completed and uploaded in the 
 
 5.Test Plan & Strategy-New Reqs: Contains defined processes and techniques that will be used while planning and designing the complete Testing Phase for the initial user requirements and integrating the 4 new features based on the provided user stories.
 
-Task 3 – Complex Reporting
+**Task 3 – Complex Reporting**
 
 1.Initial Requirements in Task1: Contains test summary report for requirements in Task 1.
 
